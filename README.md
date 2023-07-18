@@ -1,4 +1,4 @@
-# Techracers HyperLedger
+# HyperLedger
 
 This is an open source repository for writing simple, [ERC20](https://en.wikipedia.org/wiki/ERC-20) based token [Chaincode](https://hyperledger-fabric.readthedocs.io/en/release-1.2/chaincode.html) on HyperLedger, using Node.js.
 
@@ -455,7 +455,7 @@ Techracers is meant to provide secure and simple code, but please use common sen
 
 The core development principles and strategies that Techracers is based on include: security in depth, simple and modular code, clarity-driven naming conventions, comprehensive unit testing, pre-and-post-condition sanity checks, code consistency, and regular audits.
 
-If you need further help, please email [support@techracers.com](mailto:support@techracers.com). If you want to work with us email at [sales@techracers.com](mailto:sales@techracers.com)
+If you need further help, please email [ayush.t0011@@gmail.com](mailto:ayush.t0011@@gmail.com).
 
 > Note: We welcome recommendations and suggestions from the Open source community, If you think you can help us [raise an issue]().
 
